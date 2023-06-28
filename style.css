@@ -16,8 +16,8 @@ body{
 }
 
 .circle{
-    width: 10rem;
-    height: 10rem;
+    width: 8rem;
+    height: 8rem;
     border-radius: 50%;
     background-color:white;
     color: black;
@@ -25,11 +25,19 @@ body{
 }
 
 .temperature{
-    font-size: 70px;
+    font-size: 50px;
+}
+
+.humidity{
+    font-size: 30px;
 }
 
 .change-mode{
     background-color: white;
     border-radius: 10px;
     border: solid;
+}
+
+img{
+    max-width: 80px;
 }
