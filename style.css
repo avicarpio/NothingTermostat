@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'NothingFont';
-    src: url(/assets/fonts/nothing-font-5x7.ttf);
+    src: url("../NothingThermostat/assets/fonts/nothing-font-5x7.ttf") format('truetype'), url("assets/fonts/nothing-font-5x7.ttf") format('truetype');
 }
 
 body{
